@@ -24,7 +24,7 @@ The Software Development Life Cycle (SDLC) consists of several phases, including
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.<br />
 Waterfall Methodology<br />
-Waterfall is a linear and sequential project management approach where each phase must be completed before the next begins. It emphasizes thorough planning and documentation, making it suitable for projects with well-defined requirements and minimal expected changes. This methodology is often used in construction and regulated industries, where adherence to a strict timeline and compliance is critical.
+Waterfall is a linear and sequential project management approach where each phase must be completed before the next begins. It emphasizes thorough planning and documentation, making it suitable for projects with well-defined requirements and minimal expected changes. This methodology is often used in construction and regulated industries, where adherence to a strict timeline and compliance is critical.<br />
 Agile Methodology<br />
 Agile is an iterative and incremental approach that focuses on delivering functional pieces of a project in short cycles, known as sprints. It encourages flexibility and adaptability, allowing teams to respond quickly to changing requirements and customer feedback throughout the development process. Agile is particularly effective in dynamic environments, such as software development for startups or projects in research and development, where innovation and rapid iteration are essential.
 
